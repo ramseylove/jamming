@@ -1,5 +1,6 @@
 const clientId = 'b9dccdae3aa641f8ab3789214fc31fa7';
-const redirectUri = 'http://jammin-jammer.surge.sh';
+const redirectUri = 'http://localhost:3000';
+const liveRedirectUri = 'http://jammin-jammer.surge.sh';
 
 let accessToken;
 
