@@ -1,9 +1,9 @@
 
 
 
-# Jamming integrates with spotify API using Axios in ReactJS
+## JammingApp Integrates with spotify API using Axios in ReactJS
 
-## Create and edit spotify Playlists.
+## It currently can create and edit your spotify Playlists
 
 
-# Jamming Project Started with Create React App
+### Project Started with Create React App
